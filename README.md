@@ -1,2 +1,2 @@
 # PyTorchStudy
-My PyTorch Study Note
+My PyTorch Study Notes
