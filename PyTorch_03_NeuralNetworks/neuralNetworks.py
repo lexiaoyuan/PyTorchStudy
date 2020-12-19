@@ -56,6 +56,7 @@ creterion = nn.MSELoss()
 
 loss = creterion(output, target)
 print(loss)
+print(loss.item())
 
 print(loss.grad_fn)
 print(loss.grad_fn.next_functions[0][0])
